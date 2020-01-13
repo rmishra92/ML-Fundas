@@ -1,2 +1,2 @@
-# ML-Fundas
+# ML-Fundamentals
 ML fundamentals
